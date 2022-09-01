@@ -1,0 +1,15 @@
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.csproj.AssemblyReference.cache
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.Form1.resources
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.Properties.Resources.resources
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.csproj.GenerateResource.cache
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.csproj.CoreCompileInputs.cache
+C:\Users\Elizabesu\source\repos\Sidescroller\bin\Debug\Sidescroller.exe.config
+C:\Users\Elizabesu\source\repos\Sidescroller\bin\Debug\Sidescroller.exe
+C:\Users\Elizabesu\source\repos\Sidescroller\bin\Debug\Sidescroller.pdb
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.exe
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.pdb
+C:\Users\Elizabesu\source\repos\Sidescroller\bin\Debug\Interop.WMPLib.dll
+C:\Users\Elizabesu\source\repos\Sidescroller\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Interop.WMPLib.dll
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Elizabesu\source\repos\Sidescroller\obj\Debug\Sidescroller.csproj.ResolveComReference.cache
